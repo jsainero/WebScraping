@@ -1,0 +1,2275 @@
+{
+    "country": "spain",
+    "subject": "62",
+    "number_of_records": 163,
+    "mathematicians": [
+        {
+            "name": "Mar\u00eda del Carmen  Aguilera Morillo",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Penalized estimation methods in functional data analysis",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana Mar\u00eda Aguilera del Pino"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mart\u00edn  Almuzara",
+            "country": "Spain",
+            "university": "Universidad Internacional Men\u00e9ndez Pelayo",
+            "PHD title": "Essays on Latent Variables in Time Series and Panel Data",
+            "year of publication": "2020",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Manuel  Arellano",
+                "Enrique  Sentana"
+            ],
+            "students": []
+        },
+        {
+            "name": "Juana Mar\u00eda Alonso Revenga",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "An\u00e1lisis inferencial basado en medidas de fi-divergencia para modelos loglineales con muestreo multinomial y sobredispersi\u00f3n",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Nirian  Martin",
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Pedro  Alvarez-Esteban",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Aplicaciones de los recortes imparciales en la comparaci\u00f3n de distribuciones",
+            "year of publication": "2009",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Eustasio  del Barrio",
+                "Juan Antonio  Cuesta Albertos"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mercedes  Alvargonz\u00e1lez-Rodr\u00edguez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Medidas doble cuadr\u00e1ticas de informaci\u00f3n. Algunas aplicaciones econ\u00f3micas",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez",
+                "Ana J. L\u00f3pez-Men\u00e9ndez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Said  Aouaray",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Aportaciones a la modelizaci\u00f3n por procesos de difusi\u00f3n en Neurolog\u00eda",
+            "year of publication": "2000",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Concepcion  Ausin",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Inferencia bayesiana para colas (Bayesian inference for queueing systems)",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Michael Peter Wiper",
+                "Rosa Elvira Lillo"
+            ],
+            "students": [
+                "G\u00f3mez, Mario"
+            ]
+        },
+        {
+            "name": "Amparo  Ba\u00edllo",
+            "country": "Spain",
+            "university": "Universidad Aut\u00f3noma de Madrid",
+            "PHD title": "Nonparametric Estimation of Density Level Sets. Some Applications",
+            "year of publication": "2000",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Antonio  Cuevas"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jorge Hugo Barrientos Marin",
+            "country": "Spain",
+            "university": "Universidad de Alicante",
+            "PHD title": "Some Practical Problems of Recent Nonparametric Procedures: Testing, Estimation, and Application.",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Stefan  Sperlich",
+                "Fr\u00e9d\u00e9ric  Ferraty"
+            ],
+            "students": []
+        },
+        {
+            "name": "Anna Espina Berenguer",
+            "country": "Spain",
+            "university": "Universitat Pompeu Fabra",
+            "PHD title": "Statistical and empirical issues in the analysis of duration data",
+            "year of publication": "2001",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Albert  Satorra Brucart"
+            ],
+            "students": []
+        },
+        {
+            "name": "\u00c1ngela  Blanco-Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "An\u00e1lisis estad\u00edstico de un nuevo modelo de regresi\u00f3n lineal flexible para intervalos aleatorios",
+            "year of publication": "2009",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Gil  Gonz\u00e1lez-Rodr\u00edguez",
+                "Norberto  Corral",
+                "Ana  Colubi"
+            ],
+            "students": []
+        },
+        {
+            "name": "Te\u00f3filo  Brezmes",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Generalizaci\u00f3n de las medidas de informaci\u00f3n condicionada de experiencias",
+            "year of publication": "1980",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Naval, Gloria"
+            ]
+        },
+        {
+            "name": "Alvaro  Briz",
+            "country": "Spain",
+            "university": "Universitat de Val\u00e8ncia",
+            "PHD title": "Spatio-temporal methods for the analysis of crime and traffic safety data",
+            "year of publication": "2020",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Francisco  Montes Suay"
+            ],
+            "students": []
+        },
+        {
+            "name": "Rafael  Bru",
+            "country": "Spain",
+            "university": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+            "PHD title": "Modelizaci\u00f3n de Unidades Agrarias con An\u00e1lisis Multidimensional",
+            "year of publication": "1980",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Lucinio  Judez"
+            ],
+            "students": [
+                "Cant\u00f3, Rafael",
+                "Cerd\u00e1n, Juana",
+                "Climent, Joan-Josep",
+                "Coll, P. Carmen",
+                "Contreras Espinosa, Wilson",
+                "Corral, Cristina",
+                "Mar\u00edn, Jos\u00e9",
+                "Migall\u00f3n, Violeta",
+                "Para\u00eeba, Lourival",
+                "Romero, Sergio",
+                "S\u00e1nchez, Elena",
+                "Santana, Maximo",
+                "Thome, N\u00e9stor"
+            ]
+        },
+        {
+            "name": "Ismael  Cabero",
+            "country": "Spain",
+            "university": "Universitat Jaume I de Castell\u00f3n",
+            "PHD title": "Some contributions to archetypal analysis with applications",
+            "year of publication": "2019",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Irene  Epifanio"
+            ],
+            "students": []
+        },
+        {
+            "name": "Laura  Cabiedes Miragaya",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Estructura industrial, intervenci\u00f3n estatal y barreras t\u00e9cnicas a las transacciones comerciales. Una aplicaci\u00f3n a la industria farmac\u00e9utica",
+            "year of publication": "1993",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez"
+            ],
+            "students": [
+                "Oltra-Rodr\u00edguez, Enrique",
+                "Zapico-Garc\u00eda, Isabel"
+            ]
+        },
+        {
+            "name": "Ricardo  Cao Abad",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Applications and New Results of the Bootstrap Method in Nonparametric Curve Estimation",
+            "year of publication": "1990",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": [
+                "Molanes L\u00f3pez, Elisa"
+            ]
+        },
+        {
+            "name": "Ricardo  Cao Abad",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Applications and New Results of the Bootstrap Method in Nonparametric Curve Estimation",
+            "year of publication": "1990",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": [
+                "J\u00e1come Pumar, Mar\u00eda",
+                "L\u00f3pez de Ullibarri Galparsoro, Ignacio",
+                "Naya Fern\u00e1ndez, Salvador",
+                "Rodr\u00e9guez Campos, Celia",
+                "Saavedra Gonz\u00e1lez, \u00c1ngeles"
+            ]
+        },
+        {
+            "name": "Carlos  Carleos",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "M\u00e9todos estad\u00edsticos para el an\u00e1lisis de ligamento gen\u00e9tico mediante pools de ADN",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Norberto  Corral",
+                "Javier  Ca\u00f1\u00f3n",
+                "Mar\u00eda Asunci\u00f3n  Lubiano"
+            ],
+            "students": [
+                "Shatla, Ahmed"
+            ]
+        },
+        {
+            "name": "Mar\u00eda Rosa  Casals",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Contraste de hip\u00f3tesis en ambiente difuso",
+            "year of publication": "1988",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": [
+                "Montenegro, Manuel"
+            ]
+        },
+        {
+            "name": "Ignacio  Cascos-Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Variabilidad y centralidad para elementos aleatorios",
+            "year of publication": "2004",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel  L\u00f3pez-D\u00edaz",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": []
+        },
+        {
+            "name": "Covadonga  Caso",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Inferencias sobre medidas de informaci\u00f3n en el muestreo estratificado",
+            "year of publication": "1988",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jos\u00e9 Enrique Chac\u00f3n",
+            "country": "Spain",
+            "university": "Universidad de Extremadura",
+            "PHD title": "Density Estimation: Some Asymptotic and Exact Results",
+            "year of publication": "2004",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Agust\u00edn  Garc\u00eda Nogales",
+                "Jes\u00fas  Montanero"
+            ],
+            "students": []
+        },
+        {
+            "name": "Matteo  Ciccarelli",
+            "country": "Spain",
+            "university": "Universitat Pompeu Fabra",
+            "PHD title": "Bayesian inference in heterogeneous dynamic panel data models : three essays",
+            "year of publication": "2001",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Fabio  Canova"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ana  Colubi",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Leyes fuertes de los grandes n\u00fameros para variables aleatorias difusas",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel  L\u00f3pez-D\u00edaz",
+                "Jos\u00e9-Santos  Dom\u00ednguez Menchero",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": [
+                "Blanco-Fern\u00e1ndez, \u00c1ngela",
+                "Ferraro, Maria Brigida",
+                "Garc\u00eda-B\u00e1rzana, Marta",
+                "Montenegro, Manuel",
+                "Panagiotis, Paoullis",
+                "Ramos-Guajardo, Ana Bel\u00e9n"
+            ]
+        },
+        {
+            "name": "Norberto  Corral",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "M\u00e9todos de estimaci\u00f3n param\u00e9trica con informaci\u00f3n difusa. Algunas aplicaciones",
+            "year of publication": "1986",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": [
+                "Arias, Jos\u00e9 Ram\u00f3n",
+                "Blanco-Fern\u00e1ndez, \u00c1ngela",
+                "Carleos, Carlos",
+                "Gayoso, Mar\u00eda Antonieta",
+                "L\u00f3pez-Garc\u00eda, Hortensia",
+                "Mart\u00ednez-Camblor, Pablo",
+                "Raga, Jorge",
+                "Salas, Antonia",
+                "Shatla, Ahmed"
+            ]
+        },
+        {
+            "name": "In\u00e9s  Couso",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Teor\u00eda de la Probabilidad para datos imprecisos",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Garrido, Laura",
+                "Junco, Luis",
+                "Mart\u00ednez, \u00c1lvaro",
+                "Miranda, Enrique",
+                "Palacios, Ana"
+            ]
+        },
+        {
+            "name": "Jos\u00e9 Antonio Crist\u00f3bal",
+            "country": "Spain",
+            "university": "Universidad de Zaragoza",
+            "PHD title": "Cuestiones notables sobre el criterio R-E",
+            "year of publication": "1977",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Francisco Jos\u00e9  Cano Sevilla"
+            ],
+            "students": [
+                "Docampo, Domingo",
+                "Gonzalez-Manteiga, Wenceslao",
+                "Prada, Jose"
+            ]
+        },
+        {
+            "name": "Carles M. Cuadras",
+            "country": "Spain",
+            "university": "Universidad de Barcelona",
+            "PHD title": "Discriminant Analysis of Estimable Functions",
+            "year of publication": "1973",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ernest  Garde\u00f1es"
+            ],
+            "students": []
+        },
+        {
+            "name": "Gabriela  Damilano",
+            "country": "Spain",
+            "university": "Universidad Aut\u00f3noma de Barcelona",
+            "PHD title": "Modelos de localizaci\u00f3n y escala: algunos aspectos te\u00f3ricos y aplicaciones a peque\u00f1as muestras.",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pere  Puig Casado"
+            ],
+            "students": []
+        },
+        {
+            "name": "Juli\u00e1n  de la Horra Navarro",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Criterio R-E para juegos matem\u00e1ticos",
+            "year of publication": "1977",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Sixto  R\u00edos Garc\u00eda"
+            ],
+            "students": [
+                "Tejada Cazorla, Juan"
+            ]
+        },
+        {
+            "name": "Sara  de la Rosa de S\u00e1a",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Scale measures with fuzzy data analyzing their robustness and application to fuzzy rating scale-based questionnaires",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda \u00c1ngeles  Gil",
+                "Mar\u00eda Asunci\u00f3n  Lubiano",
+                "Peter  Flizmoser"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Jos\u00e9  Del Moral \u00c1vila",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Reducci\u00f3n de dimensi\u00f3n mediante ACP: Enfoques alternativos",
+            "year of publication": "1993",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mariano Jos\u00e9  Valderrama Bonnet"
+            ],
+            "students": []
+        },
+        {
+            "name": "Susana  D\u00edaz",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Descomposici\u00f3n de la transitividad en estructuras de preferencia aditiva",
+            "year of publication": "2004",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Susana  Montes",
+                "Bernard  De Baets"
+            ],
+            "students": [
+                "Martinetti, Davide"
+            ]
+        },
+        {
+            "name": "Domingo  Docampo",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "",
+            "year of publication": "1984",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Jos\u00e9 Antonio Crist\u00f3bal"
+            ],
+            "students": [
+                "Gonzalez-Prelcic, Nuria",
+                "Perez-Gonzalez, Fernando"
+            ]
+        },
+        {
+            "name": "Manuel Angel  Dominguez-Toribio",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Contrastes de especificaci\u00f3n consistentes de modelos econom\u00e9tricos",
+            "year of publication": "1998",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel Angel Delgado"
+            ],
+            "students": []
+        },
+        {
+            "name": "Irene  Epifanio",
+            "country": "Spain",
+            "university": "Universitat de Val\u00e8ncia",
+            "PHD title": "Descripci\u00f3n de texturas. Aplicaciones a su compresi\u00f3n y clasificaci\u00f3n",
+            "year of publication": "2002",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Guillermo  Ayala"
+            ],
+            "students": [
+                "Cabero, Ismael",
+                "Ferrando, Lara",
+                "Ventura-Campos, Noelia",
+                "Vinu\u00e9, Guillermo"
+            ]
+        },
+        {
+            "name": "Yunus Emre  Ergemen",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Panel Data Models with Long-Range Dependence",
+            "year of publication": "2015",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos A. Velasco"
+            ],
+            "students": []
+        },
+        {
+            "name": "Manuel  Escabias Machuca",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Reducci\u00f3n de dimensi\u00f3n en regresi\u00f3n log\u00edstica funcional",
+            "year of publication": "2002",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana Mar\u00eda Aguilera del Pino"
+            ],
+            "students": []
+        },
+        {
+            "name": "Aris  Fanjul-Hevia",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Nonparametric Methods for the Comparison of ROC Curves with Application to Biomedicine",
+            "year of publication": "2021",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Wenceslao  Gonzalez-Manteiga",
+                "Juan Carlos  Pardo-Fernandez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Manuel  Febrero-Bande",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Modelizaci\u00f3n para la predicci\u00f3n en series de tiempo: Aspectos computacionales con nuevas aportaciones y aplicaciones",
+            "year of publication": "1995",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": []
+        },
+        {
+            "name": "Fernando  Fedriani Martel",
+            "country": "Spain",
+            "university": "Universidad Pablo de Olavide",
+            "PHD title": "Hacia una cuantificaci\u00f3n del fen\u00f3meno dial\u00e9ctico: redes neuronales y debate pol\u00edtico",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Eugenio M.  Fedriani Martel",
+                "Xavier  Laborda Gil"
+            ],
+            "students": []
+        },
+        {
+            "name": "Manuel J. Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Contribuciones al estudio de ecuaciones en relaciones difusas",
+            "year of publication": "1991",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Ferm\u00edn  Su\u00e1rez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Miguel  Flores S\u00e1nchez",
+            "country": "Spain",
+            "university": "Universidad de Vigo and Universidade da Coru\u00f1a and Universidade de Santiago de Compostela",
+            "PHD title": "Nuevas Aportaciones del An\u00e1lisis de Datos Funcionales en el Control Estad\u00edstico de Procesos",
+            "year of publication": "2019",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Salvador  Naya Fern\u00e1ndez",
+                "Javier  Tarr\u00edo Saavedra"
+            ],
+            "students": []
+        },
+        {
+            "name": "Miguel  Flores S\u00e1nchez",
+            "country": "Spain",
+            "university": "Universidad de Vigo and Universidade da Coru\u00f1a and Universidade de Santiago de Compostela",
+            "PHD title": "Nuevas Aportaciones del An\u00e1lisis de Datos Funcionales en el Control Estad\u00edstico de Procesos",
+            "year of publication": "2019",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Salvador  Naya Fern\u00e1ndez",
+                "Javier  Tarr\u00edo Saavedra"
+            ],
+            "students": []
+        },
+        {
+            "name": "Miguel  Flores S\u00e1nchez",
+            "country": "Spain",
+            "university": "Universidad de Vigo and Universidade da Coru\u00f1a and Universidade de Santiago de Compostela",
+            "PHD title": "Nuevas Aportaciones del An\u00e1lisis de Datos Funcionales en el Control Estad\u00edstico de Procesos",
+            "year of publication": "2019",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Salvador  Naya Fern\u00e1ndez",
+                "Javier  Tarr\u00edo Saavedra"
+            ],
+            "students": []
+        },
+        {
+            "name": "Laver Erubiel Gagrande",
+            "country": "Spain",
+            "university": "Universidad Publica de Navarra",
+            "PHD title": "Fuerte Dependencia y Memoria Larga en Juegos de las Vergas Multidimensionales",
+            "year of publication": "2006",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Luis Alberiko Gil-Alana"
+            ],
+            "students": [
+                "Del Solar, \u00d3scar",
+                "Vigouroux, Cesar"
+            ]
+        },
+        {
+            "name": "Arkaitz  Galbete",
+            "country": "Spain",
+            "university": "Universidad Publica de Navarra",
+            "PHD title": "Probabilistic analysis of adaptive experimental designs",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Jos\u00e9 Antonio  Moler",
+                "Fernando  Plo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Marta  Garc\u00eda-B\u00e1rzana",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Estimaci\u00f3n de modelos de regresi\u00f3n lineales m\u00faltiples con restricciones aleatorias lineales",
+            "year of publication": "2016",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana  Colubi",
+                "Erricos John Kontoghiorghes"
+            ],
+            "students": []
+        },
+        {
+            "name": "Pilar  Garc\u00eda-Carrasco",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Criterios para la comparaci\u00f3n de experimentos (Criteria to compare experiments)",
+            "year of publication": "1977",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Zuluaga, Mar\u00eda del Pilar"
+            ]
+        },
+        {
+            "name": "Clara  Garc\u00eda-Cend\u00f3n",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "P\u00e9ptido natriur\u00e9tico atrial y copeptina: nuevos marcadores pron\u00f3stico en el ni\u00f1o cr\u00edticamente enfermo",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Corsino  Rey",
+                "Pablo  Mart\u00ednez-Camblor"
+            ],
+            "students": []
+        },
+        {
+            "name": "Luis Angel Garc\u00eda-Escudero",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Comportamiento asint\u00f3tico y propiedades de robustez para procedimientos estad\u00edsticos basados en recortes imparciales",
+            "year of publication": "1996",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Alfonso  Gordaliza",
+                "Carlos  Matran Bea"
+            ],
+            "students": [
+                "San Mart\u00edn, Roberto"
+            ]
+        },
+        {
+            "name": "Laura  Garrido",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Aproximaci\u00f3n de los conjuntos aleatorios borrosos desde una interpretaci\u00f3n \u00f3ntica",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "In\u00e9s  Couso"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Antonieta  Gayoso",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Prescripci\u00f3n diferenciada a hombres y mujeres, \u00bfuna cuesti\u00f3n de g\u00e9nero?",
+            "year of publication": "2016",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Agust\u00edn  Hidalgo-Balsera",
+                "Norberto  Corral"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda \u00c1ngeles  Gil",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Incertidumbre y utilidad",
+            "year of publication": "1979",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Casals, Mar\u00eda Rosa",
+                "Cascos-Fern\u00e1ndez, Ignacio",
+                "Caso, Covadonga",
+                "Colubi, Ana",
+                "Corral, Norberto",
+                "de la Rosa de S\u00e1a, Sara",
+                "L\u00f3pez-D\u00edaz, Miguel",
+                "L\u00f3pez-Garc\u00eda, Hortensia",
+                "Lubiano, Mar\u00eda Asunci\u00f3n",
+                "Mart\u00ednez, Ignacio",
+                "Montenegro, Manuel",
+                "P\u00e9rez, Rigoberto",
+                "Ramos-Guajardo, Ana Bel\u00e9n",
+                "Rodr\u00edguez-Mu\u00f1iz, Luis Jos\u00e9",
+                "Sinova, Beatriz"
+            ]
+        },
+        {
+            "name": "Pedro  Gil",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Medidas de incertidumbre e informaci\u00f3n\nen problemas de decisi\u00f3n estadistica",
+            "year of publication": "1974",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Sixto  R\u00edos Garc\u00eda"
+            ],
+            "students": [
+                "Brezmes, Te\u00f3filo",
+                "Casals, Mar\u00eda Rosa",
+                "Caso, Covadonga",
+                "Corral, Norberto",
+                "Couso, In\u00e9s",
+                "D\u00edaz, Susana",
+                "Fern\u00e1ndez, Manuel",
+                "Garc\u00eda-Carrasco, Pilar",
+                "Gil, Mar\u00eda \u00c1ngeles",
+                "L\u00f3pez, Mar\u00eda Teresa",
+                "L\u00f3pez Garc\u00eda, J. Secundino",
+                "Mart\u00ednez, Ignacio",
+                "Miranda, Enrique",
+                "Miranda, Pedro",
+                "Montes, Susana",
+                "Naval, Gloria",
+                "P\u00e9rez, Rigoberto",
+                "Rodr\u00edguez Ur\u00eda, Mar\u00eda Victor\u00eda",
+                "Salas, Antonia",
+                "Su\u00e1rez, Ferm\u00edn"
+            ]
+        },
+        {
+            "name": "Mario  G\u00f3mez",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Bayesian prediction of glacial discharge in Antarctica using copulas",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Concepcion  Ausin",
+                "Carmen  Dominguez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Juan Luis  Gonz\u00e1lez Caballero",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Algunas aportaciones a los m\u00e9todos de optimizaci\u00f3n del an\u00e1lisis cluster mediante la D.V.S.",
+            "year of publication": "1996",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mariano Jos\u00e9  Valderrama Bonnet"
+            ],
+            "students": []
+        },
+        {
+            "name": "Wenceslao  Gonzalez-Manteiga",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Construcci\u00f3n axiom\u00e1tica de estimadores no param\u00e9tricos de la funci\u00f3n de densidad y de la funci\u00f3n de regresi\u00f3n",
+            "year of publication": "1982",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Jos\u00e9 Antonio Crist\u00f3bal"
+            ],
+            "students": [
+                "Cao Abad, Ricardo",
+                "Cao Abad, Ricardo",
+                "Fanjul-Hevia, Aris",
+                "Febrero-Bande, Manuel",
+                "Martinez Calvo, Adela",
+                "Pardo-Fernandez, Juan Carlos",
+                "Rodr\u00e9guez Campos, Celia",
+                "Rodr\u00edguez-Casal, Alberto"
+            ]
+        },
+        {
+            "name": "Alfonso  Gordaliza",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Impartial generalized trimmed means",
+            "year of publication": "1987",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos  Matran Bea"
+            ],
+            "students": [
+                "Garc\u00eda-Escudero, Luis",
+                "San Mart\u00edn, Roberto"
+            ]
+        },
+        {
+            "name": "Gudmundur Stefan Gudmundsson",
+            "country": "Spain",
+            "university": "Universitat Pompeu Fabra",
+            "PHD title": "Essays in Network Modelling",
+            "year of publication": "2018",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "G\u00e1bor  Lugosi"
+            ],
+            "students": []
+        },
+        {
+            "name": "Alfonso  Guira\u00fam Mart\u00edn",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Contribuci\u00f3n al estudio de los tests en An\u00e1lisis Factorial",
+            "year of publication": "1951",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Sixto  R\u00edos Garc\u00eda",
+                "Herman  Wold"
+            ],
+            "students": [
+                "Canteras Jordana, Manuel",
+                "Herrer\u00edas Pleguezuelo, Rafael",
+                "Mart\u00edn Andr\u00e9s, Antonio"
+            ]
+        },
+        {
+            "name": "Aurora  Hermoso Carazo",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Tests de hip\u00f3tesis sobre el coe\ufb01ciente tendencia de un proceso de difusi\u00f3n multidimensional : aplicaci\u00f3n al proceso logar\u00edtmico-normal con factores ex\u00f3genos",
+            "year of publication": "1983",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez"
+            ],
+            "students": [
+                "Caballero-\u00c1guila, Raquel",
+                "Garc\u00eda-Ligero Ram\u00edrez, Mar\u00eda Jes\u00fas"
+            ]
+        },
+        {
+            "name": "Sonia  Hernandez",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Regression Estimates Locally and Globally Robust",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Victor Jaime Yohai"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Dolores  Huete Morales",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "El modelo estoc\u00e1stico de Gompertz. Modelizaci\u00f3n de datos sociodemogr\u00e1\ufb01cos",
+            "year of publication": "2006",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez",
+                "Francisco  Abad Montes"
+            ],
+            "students": []
+        },
+        {
+            "name": "Adina Alexandra Iftimi",
+            "country": "Spain",
+            "university": "Universitat de Val\u00e8ncia",
+            "PHD title": "Methods for the statistical analysis of spatio-temporal data",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Francisco  Montes Suay"
+            ],
+            "students": []
+        },
+        {
+            "name": "Rosa Mar\u00eda  Inga Santiv\u00e1\u00f1ez",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "El criterio de informaci\u00f3n de Akaike en el an\u00e1lisis de datos categorizados",
+            "year of publication": "1992",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo",
+                "Domingo  Morales"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Amalia J\u00e1come Pumar",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "Presmoothed Distribution and Density Estimation with Censored Data",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad"
+            ],
+            "students": []
+        },
+        {
+            "name": "Julia  Janeiro-Arocas",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "Study of the mechanic dynamic characteristics of silicones for use in podology",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Salvador  Naya Fern\u00e1ndez",
+                "Jorge  Lopez-Beceiro"
+            ],
+            "students": []
+        },
+        {
+            "name": "Luis  Junco",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Selecci\u00f3n de las m\u00e9tricas m\u00e1s relevantes para la evaluaci\u00f3n autom\u00e1tica del rendimiento de los alumnos en cursos online basada en medidas de cantidad de informaci\u00f3n para datos imprecisos",
+            "year of publication": "2016",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana  Palacios",
+                "In\u00e9s  Couso"
+            ],
+            "students": []
+        },
+        {
+            "name": "Igor Leonidovich Kheifets",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Specification Tests for Financial Dynamic Models",
+            "year of publication": "2012",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos  Velasco"
+            ],
+            "students": []
+        },
+        {
+            "name": "Elena  Landaburu",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Las medidas de divergencia en contrastes de bondad de ajuste con ponderaci\u00f3n en las clases",
+            "year of publication": "2002",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Manuel  Landajo",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Modelos neuroborrosos para la predicci\u00f3n econ\u00f3mica",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez"
+            ],
+            "students": [
+                "Fern\u00e1ndez-Gonz\u00e1lez, Paula"
+            ]
+        },
+        {
+            "name": "Katarzyna Aleksandra Lasak",
+            "country": "Spain",
+            "university": "Universidad Aut\u00f3noma de Barcelona",
+            "PHD title": "Likelihood Analysis of Fractionally Cointegrated Systems",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos  Velasco"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Teresa  L\u00f3pez",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Algunos problemas estad\u00edsticos con informaci\u00f3n difusa",
+            "year of publication": "1987",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Lubiano, Mar\u00eda Asunci\u00f3n"
+            ]
+        },
+        {
+            "name": "Ignacio  L\u00f3pez de Ullibarri Galparsoro",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Presmoothed Estimation of Hazard Function and Hazard Rate with Censored Data",
+            "year of publication": "2004",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad"
+            ],
+            "students": []
+        },
+        {
+            "name": "J. Secundino  L\u00f3pez Garc\u00eda",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Generalizaci\u00f3n de las medidas de incertidumbre \u00fatil",
+            "year of publication": "1979",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Alvarado Nieto, Luz",
+                "Bilbao, Amelia",
+                "Garc\u00eda Tamargo, Marco A."
+            ]
+        },
+        {
+            "name": "Hortensia  L\u00f3pez-Garc\u00eda",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Cuantificaci\u00f3n de la desigualdad asociada a conjuntos aleatorios y variables aleatorias difusas",
+            "year of publication": "1997",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda \u00c1ngeles  Gil",
+                "Norberto  Corral",
+                "Miguel  L\u00f3pez-D\u00edaz"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ana J. L\u00f3pez-Men\u00e9ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Desigualdad de renta y pobreza: una aproximaci\u00f3n conceptual y cuantitativa",
+            "year of publication": "1991",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez"
+            ],
+            "students": [
+                "Alvargonz\u00e1lez-Rodr\u00edguez, Mercedes",
+                "C\u00f3rdoba-Segovia, Carlos Manuel",
+                "Mayor Fern\u00e1ndez, Mat\u00edas",
+                "Moreno Cuartas, Blanca",
+                "Presno, Mar\u00eda Jos\u00e9",
+                "Vicente Cuervo, Mar\u00eda Rosal\u00eda"
+            ]
+        },
+        {
+            "name": "Mar\u00eda Asunci\u00f3n  Lubiano",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Medidas de variaci\u00f3n para elementos aleatorios imprecisos",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda \u00c1ngeles  Gil",
+                "Miguel  L\u00f3pez-D\u00edaz",
+                "Mar\u00eda Teresa  L\u00f3pez"
+            ],
+            "students": [
+                "Carleos, Carlos",
+                "de la Rosa de S\u00e1a, Sara"
+            ]
+        },
+        {
+            "name": "Nirian  Martin",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Divergence Measures in the Study of Loglinear Models with Linear Constraints",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo"
+            ],
+            "students": [
+                "Alonso Revenga, Juana",
+                "Mata Crespo, Raquel"
+            ]
+        },
+        {
+            "name": "Davide  Martinetti",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Fuzzy and probabilistic approaches to modelling individual choice or preference: rationality conditions an their relationships",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Susana  Montes",
+                "Susana  D\u00edaz"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ignacio  Mart\u00ednez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Aproximaci\u00f3n de algunas familias de \u00edndices de variaci\u00f3n en poblaciones finitas",
+            "year of publication": "1991",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": []
+        },
+        {
+            "name": "Adela  Martinez Calvo",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Estimadores e calibraci\u00f3n bootstrap para a regresi\u00f3n funcional con\nresposta escalar",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Wenceslao  Gonzalez-Manteiga",
+                "Philippe  Vieu"
+            ],
+            "students": []
+        },
+        {
+            "name": "Pablo  Mart\u00ednez-Camblor",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Tests no param\u00e9tricos basados en una distancia entre funciones de densidad",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Norberto  Corral"
+            ],
+            "students": [
+                "Garc\u00eda-Cend\u00f3n, Clara",
+                "S\u00e1nchez-Arango, David"
+            ]
+        },
+        {
+            "name": "Jacinto  Mart\u00edn Jim\u00e9nez",
+            "country": "Spain",
+            "university": "Universidad Polit\u00e9cnica de Madrid",
+            "PHD title": "",
+            "year of publication": "1995",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "David  R\u00edos-Ins\u00faa"
+            ],
+            "students": [
+                "P\u00e9rez S\u00e1nchez, Carlos"
+            ]
+        },
+        {
+            "name": "Ra\u00fal  Mart\u00edn Mart\u00edn",
+            "country": "Spain",
+            "university": "Universidad de Castilla - La Mancha",
+            "PHD title": "Construction of optimal designs for models with uncontrolled variables",
+            "year of publication": "2006",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Jes\u00fas  L\u00f3pez Fidalgo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Raquel  Mata Crespo",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Inferencia estad\u00edstica basada en medidas de divergencia para modelos loglineales con restricciones de desigualdad: aplicaci\u00f3n en ensayos cl\u00ednicos.",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Nirian  Martin",
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Josep Maria  Mateo-Sanz",
+            "country": "Spain",
+            "university": "Universidad de Barcelona",
+            "PHD title": "Contribucions al Control de la Revelacio Estadistica per a Macrodades i per a Microdades",
+            "year of publication": "1998",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Josep  Domingo-Ferrer"
+            ],
+            "students": [
+                "Solanas, Agusti",
+                "Torres Arag\u00f3, \u00c0ngel"
+            ]
+        },
+        {
+            "name": "Agust\u00edn  Mayo-Iscar",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Estimaci\u00f3n de par\u00e1metros en mezclas de poblaciones normales no homog\u00e9neas",
+            "year of publication": "2001",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos  Matran Bea"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mat\u00edas  Mayor Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Crecimiento regional y efecto competitivo modelizaci\u00f3n econom\u00e9trica y predicci\u00f3n",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez",
+                "Ana J. L\u00f3pez-Men\u00e9ndez"
+            ],
+            "students": [
+                "Gonz\u00e1lez-Arbu\u00e9s, Pelayo"
+            ]
+        },
+        {
+            "name": "Pedro  Miranda",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Aplicaciones de las medidas k-aditivas a la Teor\u00eda de la Decisi\u00f3n",
+            "year of publication": "2002",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Michel  Grabisch"
+            ],
+            "students": [
+                "C\u00e1ceres, In\u00e9s"
+            ]
+        },
+        {
+            "name": "Elisa Mar\u00eda Molanes L\u00f3pez",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "Nonparametric Statistical Inference for Relative Curves in Two Sample Problems",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad"
+            ],
+            "students": []
+        },
+        {
+            "name": "Rafael  Molina",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Dise\u00f1o \u00d3ptimo en Modelos Lineales",
+            "year of publication": "1984",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Concepci\u00f3n  Fern\u00e1ndez Vivas"
+            ],
+            "students": []
+        },
+        {
+            "name": "Manuel  Montenegro",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Estad\u00edstica con datos imprecisos basada en una m\u00e9trica generalizada",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda \u00c1ngeles  Gil",
+                "Mar\u00eda Rosa  Casals",
+                "Ana  Colubi"
+            ],
+            "students": []
+        },
+        {
+            "name": "Javier  Montero",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Decisiones n-personales con opiniones difusas",
+            "year of publication": "1982",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Sixto  R\u00edos Garc\u00eda"
+            ],
+            "students": []
+        },
+        {
+            "name": "Susana  Montes",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Particiones y medidas de divergencia en modelos difusos",
+            "year of publication": "1998",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "D\u00edaz, Susana",
+                "Martinetti, Davide",
+                "Montes, Ignacio",
+                "P\u00e9rez-Fern\u00e1ndez, Ra\u00fal"
+            ]
+        },
+        {
+            "name": "Paula  Moraga Serrano",
+            "country": "Spain",
+            "university": "Universitat de Val\u00e8ncia",
+            "PHD title": "Spatial and spatio-temporal methods for public health surveillance",
+            "year of publication": "2012",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Francisco  Montes Suay",
+                "Francisco  Martinez Ruiz"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ignacio  Moral Arce",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Estimaci\u00f3n semiparam\u00e9trica en modelos de ecuaciones simult\u00e1neas con\nvariables\ndependientes limitadas",
+            "year of publication": "2004",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Juan Manuel  Rodriguez Poo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Blanca  Moreno Cuartas",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Combinaci\u00f3n de predicciones y m\u00e9todos de evaluaci\u00f3n. Nuevas alternativas basadas en medidas de informaci\u00f3n",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez",
+                "Ana J. L\u00f3pez-Men\u00e9ndez"
+            ],
+            "students": []
+        },
+        {
+            "name": "ElKettani  Moummou",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Aportaciones a la optimizaci\u00f3n en la metodolog\u00eda de Taguchi",
+            "year of publication": "2000",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Carmen  Murillo",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Contribuciones al An\u00e1lisis Estoc\u00e1stico de la Eficiencia T\u00e9cnica Mediante\nM\u00e9todos no\nParam\u00e9tricos.",
+            "year of publication": "2002",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Juan Manuel  Rodriguez Poo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Gloria  Naval",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Entrop\u00edas valoradas e informaciones generadas por otras medidas en la Teor\u00eda axiom\u00e1tica de la Informaci\u00f3n",
+            "year of publication": "1995",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Te\u00f3filo  Brezmes",
+                "Carlo  Bertoluzza"
+            ],
+            "students": []
+        },
+        {
+            "name": "Salvador  Naya Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "New Applications of Parametric and Nonparametric Curve Estimation for Thermal Analysis",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad",
+                "Ram\u00f3n  Artiaga D\u00edaz"
+            ],
+            "students": [
+                "Flores S\u00e1nchez, Miguel",
+                "Janeiro-Arocas, Julia",
+                "Lopez-Beceiro, Jorge",
+                "Sebio, Teresa",
+                "Tarr\u00edo Saavedra, Javier"
+            ]
+        },
+        {
+            "name": "Alicia  Nieto-Reyes",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Aplicaciones Estad\u00edsticas de las Proyecciones Aleatorias",
+            "year of publication": "2010",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Juan Antonio  Cuesta Albertos"
+            ],
+            "students": []
+        },
+        {
+            "name": "Francisco  Novoa Mu\u00f1oz",
+            "country": "Spain",
+            "university": "Universidad de Sevilla",
+            "PHD title": "Tests de bondad de ajuste para la distribuci\u00f3n Poisson bivariante",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda Dolores Jim\u00e9nez-Gamero"
+            ],
+            "students": []
+        },
+        {
+            "name": "Francisco Antonio  Oca\u00f1a-Lara",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Geometrical Alternatives in the PCA of a Hilbert valued Random Variable",
+            "year of publication": "1996",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana Mar\u00eda Aguilera del Pino",
+                "Mariano Jos\u00e9  Valderrama Bonnet"
+            ],
+            "students": [
+                "Vega Gonz\u00e1lez, Cristobal"
+            ]
+        },
+        {
+            "name": "Anna  Oganian",
+            "country": "Spain",
+            "university": "Universitat Polit\u00e8cnica de Catalunya",
+            "PHD title": "Security and Information Loss in Statistical Database Protection",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Josep  Domingo-Ferrer"
+            ],
+            "students": []
+        },
+        {
+            "name": "Susan  Orbe",
+            "country": "Spain",
+            "university": "Universidad del Pa\u00eds Vasco",
+            "PHD title": "Modelos de regresi\u00f3n con par\u00e1metros cambiantes sujetos a restricciones de\nestacionalidad: un enfoque no param\u00e9trico.",
+            "year of publication": "2000",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Juan Manuel  Rodriguez Poo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ana  Palacios",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Extracci\u00f3n de conocimiento a partir de datos imprecisos. Aplicaci\u00f3n al diagn\u00f3stico precoz de la dislexia",
+            "year of publication": "2011",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "In\u00e9s  Couso",
+                "Luciano  S\u00e1nchez"
+            ],
+            "students": [
+                "Junco, Luis"
+            ]
+        },
+        {
+            "name": "Jesus  Palomo",
+            "country": "Spain",
+            "university": "Universidad Rey Juan Carlos",
+            "PHD title": "Bayesian Methods in Bidding Processes",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "David  R\u00edos-Ins\u00faa",
+                "Fabrizio  Ruggeri"
+            ],
+            "students": []
+        },
+        {
+            "name": "Paoullis  Panagiotis",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Algoritmos basados en matrices para resolver problemas estad\u00edsticos de alto coste computacional",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ana  Colubi",
+                "Erricos John Kontoghiorghes"
+            ],
+            "students": []
+        },
+        {
+            "name": "Julio Angel  Pardo",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "La energia informacional de orden [alfa] y tipo [beta] en el an\u00e1lisis y dise\u00f1o de sistemas de informaci\u00f3n difusa",
+            "year of publication": "1989",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Leandro  Pardo",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Sharpness Measures for Fuzzy Sets and Events. Group Decision Processes with Individual Sharp Preferences",
+            "year of publication": "1980",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Sixto  R\u00edos Garc\u00eda"
+            ],
+            "students": [
+                "Alonso Revenga, Juana",
+                "Inga Santiv\u00e1\u00f1ez, Rosa Mar\u00eda",
+                "Landaburu, Elena",
+                "Martin, Nirian",
+                "Mata Crespo, Raquel",
+                "Pardo, Julio Angel",
+                "Pardo, Maria del Carmen",
+                "Vicente, Maria Lina"
+            ]
+        },
+        {
+            "name": "Maria del Carmen  Pardo",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Estimadores de m\u00ednima divergencia de Rao: comportamiento asint\u00f3tico y aplicaci\u00f3n a contrastes de hip\u00f3tesis",
+            "year of publication": "1996",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Juan Carlos  Pardo-Fernandez",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Tests in nonparametric regression based on the error distribution",
+            "year of publication": "2005",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ingrid  Van Keilegom",
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": [
+                "Fanjul-Hevia, Aris"
+            ]
+        },
+        {
+            "name": "Rigoberto  P\u00e9rez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Estimaci\u00f3n de la incertidumbre, la incertidumbre \u00fatil y la inquietud en poblaciones finitas: una aplicaci\u00f3n a las medidas de desigualdad",
+            "year of publication": "1985",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": [
+                "Alvargonz\u00e1lez-Rodr\u00edguez, Mercedes",
+                "Cabiedes Miragaya, Laura",
+                "Landajo, Manuel",
+                "L\u00f3pez-Men\u00e9ndez, Ana",
+                "Mayor Fern\u00e1ndez, Mat\u00edas",
+                "Moreno Cuartas, Blanca",
+                "Presno, Mar\u00eda Jos\u00e9",
+                "Ramos-Carvajal, Carmen",
+                "Vicente Cuervo, Mar\u00eda Rosal\u00eda"
+            ]
+        },
+        {
+            "name": "Ra\u00fal  P\u00e9rez-Fern\u00e1ndez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Monotonicity-based consensus states for the monometric rationalisation of ranking rules with application in decision making",
+            "year of publication": "2017",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Bernard  De Baets",
+                "Irene  D\u00edaz",
+                "Susana  Montes"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Jos\u00e9  Presno",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "An\u00e1lisis de estacionariedad y ruptura estructural. Un estudio asint\u00f3tico y de simulaci\u00f3n",
+            "year of publication": "2001",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez",
+                "Ana J. L\u00f3pez-Men\u00e9ndez"
+            ],
+            "students": [
+                "Fern\u00e1ndez-Gonz\u00e1lez, Paula"
+            ]
+        },
+        {
+            "name": "Jaime  Puig-Pey",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "MODELOS ESTADISTICOS DE OLEAJE PARA LA DEFINICION DE CRITERIOS BASICOS DE DISE\u00d1O DE OBRAS MARITIMAS. INCIDENCIA DE LOS DATOS DISPONIBLES EN SU FIABILIDAD",
+            "year of publication": "1977",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Enrique  Castillo"
+            ],
+            "students": [
+                "Carreras, Fernando"
+            ]
+        },
+        {
+            "name": "Tijana  Radivojevi\u0107",
+            "country": "Spain",
+            "university": "University of the Basque Country and Basque Center For Applied Mathematics",
+            "PHD title": "Enhancing Sampling in Computational Statistics Using Modified Hamiltonians",
+            "year of publication": "2016",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Elena  Akhmatskaya",
+                "Enrico  Scalas"
+            ],
+            "students": []
+        },
+        {
+            "name": "Tijana  Radivojevi\u0107",
+            "country": "Spain",
+            "university": "University of the Basque Country and Basque Center For Applied Mathematics",
+            "PHD title": "Enhancing Sampling in Computational Statistics Using Modified Hamiltonians",
+            "year of publication": "2016",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Elena  Akhmatskaya",
+                "Enrico  Scalas"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jorge  Raga",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Influencia de la actividad f\u00edsica y el deporte en el desarrollo de la competencia social de los adolescentes",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Raquel  Rodr\u00edguez-Gonz\u00e1lez",
+                "Norberto  Corral"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ana Bel\u00e9n  Ramos-Guajardo",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Contrastes de hip\u00f3tesis: tratamiento de la variabilidad y la imprecisi\u00f3n",
+            "year of publication": "2011",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Gil  Gonz\u00e1lez-Rodr\u00edguez",
+                "Ana  Colubi",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jes\u00fas  R\u00edos",
+            "country": "Spain",
+            "university": "Universidad Rey Juan Carlos",
+            "PHD title": "Supporting Group Decisions through the Web: E-Democracy and e-Participatory Budgets",
+            "year of publication": "2006",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "David  R\u00edos-Ins\u00faa"
+            ],
+            "students": []
+        },
+        {
+            "name": "Celia  Rodr\u00e9guez Campos",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Statistical Inference in Discrete Response Conditional Models Using Nonparametric Curve Estimation",
+            "year of publication": "1994",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad",
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": []
+        },
+        {
+            "name": "Alberto  Rodr\u00edguez-Casal",
+            "country": "Spain",
+            "university": "Universidade de Santiago de Compostela",
+            "PHD title": "Estimaci\u00f3n de conjuntos y sus fronteras. Un enfoque geom\u00e9trico",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Antonio  Cuevas",
+                "Wenceslao  Gonzalez-Manteiga"
+            ],
+            "students": []
+        },
+        {
+            "name": "Francisco Javier Rodr\u00edguez-Cort\u00e9s",
+            "country": "Spain",
+            "university": "Universitat Jaume I de Castell\u00f3n",
+            "PHD title": "Modelling, Estimation and Applications of Second-Order Spatio-Temporal Caracteristics of Point Processes",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Jorge  Mateu Mahiques"
+            ],
+            "students": []
+        },
+        {
+            "name": "Antonio Luis  Rodr\u00edguez L\u00f3pez-Ca\u00f1izares",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Aportaciones a la resoluci\u00f3n de problemas de optimizaci\u00f3n matem\u00e1tica",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Andr\u00e9s  Gonz\u00e1lez Carmona",
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Luis Jos\u00e9  Rodr\u00edguez-Mu\u00f1iz",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "An\u00e1lisis diferencial e integral de variables aleatorias difusas. Aplicaciones a la Decisi\u00f3n Estad\u00edstica",
+            "year of publication": "2001",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel  L\u00f3pez-D\u00edaz",
+                "Mar\u00eda \u00c1ngeles  Gil"
+            ],
+            "students": [
+                "Alonso-Casta\u00f1o, Marl\u00e9n",
+                "C\u00e1zarez-Meza, Mario Alberto",
+                "D\u00edaz-D\u00edaz, Patricia",
+                "Mu\u00f1iz-Rodr\u00edguez, Laura"
+            ]
+        },
+        {
+            "name": "Jes\u00fas M. Rodr\u00edguez-Rodr\u00edguez",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Aplicaciones de las M\u00e9tricas de Wasserstein al An\u00e1lisis de Datos",
+            "year of publication": "1997",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Carlos  Matran Bea"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Victor\u00eda  Rodr\u00edguez Ur\u00eda",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Algunas cuestiones en teor\u00eda de la codificaci\u00f3n",
+            "year of publication": "1987",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Antomil-Ibias, Jos\u00e9",
+                "Arenas-Parra, Mar",
+                "P\u00e9rez-Gladish, Blanca"
+            ]
+        },
+        {
+            "name": "Nacho  Rozado",
+            "country": "Spain",
+            "university": "Universidad del Pa\u00eds Vasco",
+            "PHD title": "Estad\u00edsticas de Anales en el Pais Vasco: un Estudio Comparado con los Anales de Estad\u00edstica en 1968-1998.",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Josu  Arteche"
+            ],
+            "students": []
+        },
+        {
+            "name": "\u00c1ngeles  Saavedra Gonz\u00e1lez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "A New Nonparametric Marginal Density Estimator for Moving Average Processes",
+            "year of publication": "1997",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ricardo  Cao Abad"
+            ],
+            "students": []
+        },
+        {
+            "name": "Antonia  Salas",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Regresi\u00f3n lineal con observaciones difusas",
+            "year of publication": "1991",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil",
+                "Norberto  Corral"
+            ],
+            "students": []
+        },
+        {
+            "name": "David  S\u00e1nchez-Arango",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Vitamina D: Nuevo marcador pron\u00f3stico en ni\u00f1os cr\u00edticamente enfermos",
+            "year of publication": "2015",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Corsino  Rey",
+                "Pablo  Mart\u00ednez-Camblor"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ana Mar\u00eda S\u00e1nchez S\u00e1nchez",
+            "country": "Spain",
+            "university": "Universidad Pablo de Olavide",
+            "PHD title": "Tratamiento de series temporales desigualmente espaciadas: aplicaciones en el \u00e1mbito de la Econom\u00eda",
+            "year of publication": "2011",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Eugenio M.  Fedriani Martel"
+            ],
+            "students": []
+        },
+        {
+            "name": "Bel\u00e9n  S\u00e1nchez Valverde",
+            "country": "Spain",
+            "university": "Universidad de Zaragoza",
+            "PHD title": "An\u00e1lisis de Intervenci\u00f3n en Modelos de Series de Tiempo Univariantes con Aplicaci\u00f3n a Series de Consumos Energ\u00e9ticos",
+            "year of publication": "1988",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Clemente A. Campos y S\u00e1ez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Roberto  San Mart\u00edn",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "Recortes Imparciales en torno a Subespacios Afines. Aplicaciones al An\u00e1lisis Multivariante Robusto",
+            "year of publication": "2008",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Alfonso  Gordaliza",
+                "Luis Angel Garc\u00eda-Escudero"
+            ],
+            "students": []
+        },
+        {
+            "name": "Pedro H. C. Sant'Anna",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Essays on Duration and Count Data Models",
+            "year of publication": "2015",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel Angel Delgado"
+            ],
+            "students": []
+        },
+        {
+            "name": "Gustavo  Santos Garc\u00eda",
+            "country": "Spain",
+            "university": "Universidad de Valladolid",
+            "PHD title": "T\u00e9cnicas matem\u00e1ticas aplicadas al reconocimiento de trazas",
+            "year of publication": "1993",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro Mart\u00ednez Gadea"
+            ],
+            "students": []
+        },
+        {
+            "name": "Paloma  Sanz",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Algunas aportaciones a la teor\u00eda de la robustez en inferencia estad\u00edstica",
+            "year of publication": "1988",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Antonio  Cuevas"
+            ],
+            "students": []
+        },
+        {
+            "name": "Teresa  Sebio",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "Thermal wood study",
+            "year of publication": "2012",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Artiaga D\u00edaz",
+                "Salvador  Naya Fern\u00e1ndez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jose Antonio Seijas-Macias",
+            "country": "Spain",
+            "university": "Universidad Nacional de Educaci\u00f3n a Distancia",
+            "PHD title": "Distribuci\u00f3n del Producto de Distribuciones Normales",
+            "year of publication": "2020",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Am\u00edlcar  Oliveira",
+                "Tom\u00e1s  Prieto Rumeau"
+            ],
+            "students": []
+        },
+        {
+            "name": "Eliud  Silva",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Combination and smoothing of time series for demographic analysis",
+            "year of publication": "2010",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Victor Manuel Guerrero-Guzman",
+                "Daniel  Pe\u00f1a"
+            ],
+            "students": []
+        },
+        {
+            "name": "Beatriz  Sinova",
+            "country": "Spain",
+            "university": "Universidad de Oviedo and Universiteit Gent",
+            "PHD title": "Robust location measures for imprecise-valued random elements",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Mar\u00eda \u00c1ngeles  Gil",
+                "Gil  Gonz\u00e1lez-Rodr\u00edguez",
+                "Stefan  Van Aelst"
+            ],
+            "students": []
+        },
+        {
+            "name": "Alexandra  Soberon",
+            "country": "Spain",
+            "university": "Universidad de Cantabria",
+            "PHD title": "Modelos de coeficientes variables con datos de panel: Estimaci\u00f3n\nsemiparam\u00e9trica directa y su aplicacion en la modelizacion del comportamiento de\nlos individuos",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Juan Manuel  Rodriguez Poo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Ferm\u00edn  Su\u00e1rez",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "Familias de integrales difusas y medidas de entrop\u00eda relacionadas",
+            "year of publication": "1983",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pedro  Gil"
+            ],
+            "students": [
+                "Fern\u00e1ndez, Manuel"
+            ]
+        },
+        {
+            "name": "Javier  Tarr\u00edo Saavedra",
+            "country": "Spain",
+            "university": "Universidade da Coru\u00f1a",
+            "PHD title": "Evaluaci\u00f3n y Clasificaci\u00f3n de Materiales: un enfoque estad\u00edstico.",
+            "year of publication": "2012",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Salvador  Naya Fern\u00e1ndez",
+                "Mario  Francisco Fernandez",
+                "Ram\u00f3n  Artiaga D\u00edaz"
+            ],
+            "students": [
+                "Flores S\u00e1nchez, Miguel"
+            ]
+        },
+        {
+            "name": "Antonio Garc\u00e9s T\u00e9bar",
+            "country": "Spain",
+            "university": "Universidad de Zaragoza",
+            "PHD title": "Desarrollo y Evaluaci\u00f3n de un Sistema de Gesti\u00f3n Integrada de Fabricaci\u00f3n mediante Categor\u00edas Universales",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Clemente A. Campos y S\u00e1ez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jos\u00e9 Luis Torrecilla",
+            "country": "Spain",
+            "university": "Universidad Aut\u00f3noma de Madrid",
+            "PHD title": "On the Theory and Practice of Variable Selection for Functional Data",
+            "year of publication": "2015",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Antonio  Cuevas",
+                "Jos\u00e9 Ram\u00f3n Berrendero"
+            ],
+            "students": []
+        },
+        {
+            "name": "\u00c0ngel  Torres Arag\u00f3",
+            "country": "Spain",
+            "university": "Universitat Polit\u00e8cnica de Catalunya",
+            "PHD title": "Contribucions a la microagregaci\u00f3 per a la protecci\u00f3 de dades estad\u00edstiques",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Josep Maria  Mateo-Sanz",
+                "Josep  Domingo-Ferrer"
+            ],
+            "students": []
+        },
+        {
+            "name": "Francisco A. Triguero",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Una contribuci\u00f3n a la modelizaci\u00f3n de la tendencia en series temporales",
+            "year of publication": "1982",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Ram\u00f3n  Guti\u00e9rrez J\u00e1imez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Inma  Tur",
+            "country": "Spain",
+            "university": "Universitat Pompeu Fabra",
+            "PHD title": "Mapping eQTL networks with mixed graphical models",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Robert  Castelo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Dolores Berrade Urs\u00faa",
+            "country": "Spain",
+            "university": "Universidad de Zaragoza",
+            "PHD title": "T\u00e9cnicas Estad\u00edsticas en Fiabilidad: Propiedades de Edad Bajo Mixturas y Mantenimiento \u00d3ptimo de Sistemas",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Clemente A. Campos y S\u00e1ez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Cristobal E. Vega Gonz\u00e1lez",
+            "country": "Spain",
+            "university": "Universidad de Granada",
+            "PHD title": "Aplicaci\u00f3n de t\u00e9cnicas wavelet al an\u00e1lisis de series temporales",
+            "year of publication": "2003",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Francisco Antonio  Oca\u00f1a-Lara"
+            ],
+            "students": []
+        },
+        {
+            "name": "Noelia  Ventura-Campos",
+            "country": "Spain",
+            "university": "Universitat Jaume I de Castell\u00f3n",
+            "PHD title": "Contributions to statistical learning for magnetic resonance images",
+            "year of publication": "2013",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Irene  Epifanio",
+                "C\u00e9sar  \u00c1vila"
+            ],
+            "students": [
+                "Ferrando, Lara"
+            ]
+        },
+        {
+            "name": "Maria Lina  Vicente",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Aplicaciones estad\u00edsticas de la entrop\u00eda no aditiva de grado beta de Havrda y Charvat",
+            "year of publication": "1990",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Leandro  Pardo"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda Rosal\u00eda  Vicente Cuervo",
+            "country": "Spain",
+            "university": "Universidad de Oviedo",
+            "PHD title": "M\u00e9trica e indicadores de la sociedad de la informaci\u00f3n. Una aproximaci\u00f3n a la difusi\u00f3n de la TIC y a la brecha digital",
+            "year of publication": "2007",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Rigoberto  P\u00e9rez",
+                "Ana J. L\u00f3pez-Men\u00e9ndez"
+            ],
+            "students": []
+        },
+        {
+            "name": "Jose M. Vidal-Sanz",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Universal Consistency of Delta Estimators: An Approximation Theory Approach",
+            "year of publication": "1999",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Miguel Angel Delgado"
+            ],
+            "students": []
+        },
+        {
+            "name": "Guillermo  Vinu\u00e9",
+            "country": "Spain",
+            "university": "Universitat de Val\u00e8ncia",
+            "PHD title": "Development of statistical methodologies applied to anthropometric data oriented towards the ergonomic design of products",
+            "year of publication": "2014",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Irene  Epifanio",
+                "Amelia  Sim\u00f3",
+                "Teresa  Le\u00f3n"
+            ],
+            "students": []
+        },
+        {
+            "name": "Weixuan  Zhu",
+            "country": "Spain",
+            "university": "Universidad Carlos III de Madrid",
+            "PHD title": "Flexible Bayesian Nonparametric Priors and Bayesian Computational Methods",
+            "year of publication": "2015",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Fabrizio  Leisen"
+            ],
+            "students": []
+        },
+        {
+            "name": "Mar\u00eda del Pilar  Zuluaga",
+            "country": "Spain",
+            "university": "Universidad Complutense de Madrid",
+            "PHD title": "Medidas de informaci\u00f3n en discriminaci\u00f3n cualitativa",
+            "year of publication": "1986",
+            "subject": "62\u2014Statistics",
+            "advisor": [
+                "Pilar  Garc\u00eda-Carrasco"
+            ],
+            "students": []
+        }
+    ]
+}
