@@ -96,7 +96,9 @@ def get_search_content(driver, country, subject):
     if country:
         country_search = driver.find_element(By.ID, 'country')
         country_search.send_keys(country)
-    country_search.send_keys(Keys.ENTER)
+
+    entry_search = driver.find_element(By.NAME, 'submit')
+    entry_search.click()
     # time.sleep(20)
     return BeautifulSoup(driver.page_source, features="lxml")
 
@@ -209,7 +211,7 @@ def main(country, subject):
         'mathematicians': authors_info
     }
 
-    with open('mathematicians_dataset.json', 'w') as file:
+    with open('mathematicians_dataset_2.json', 'w') as file:
         json.dump(search_info, file, indent=4)
 
 
