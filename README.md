@@ -13,9 +13,9 @@ En esta práctica hemos aplicado técnicas de _web scraping_ para extraer inform
 
 - **[webscraper.py](https://github.com/jsainero/WebScraping/blob/master/webscraper.py)** contiene el script y las funciones que extraen y generan el fichero con los datos.
 
-- **[Práctica Web scraping.ipynb](https://github.com/jsainero/WebScraping/blob/master/Pr%C3%A1ctica%20Web%20scraping.ipynb)** es un notebook donde empezamos a usar las librerías de _web scraping_.
+- **[Web scraping answers](https://github.com/jsainero/WebScraping/blob/master/Web%20scraping%20answers.pdf)** es el pdf donde respondemos todas las preguntas relativas al conjunto de datos extraido.
 
-- **[mathematicias_dataset.json](https://doi.org/10.5281/zenodo.6436865)** es un dataset de ejemplo que contiene los matemáticos cuya tesis fue de estadística y la realizaron en una universidad española.
+- **[statisticians_PhD_spain](https://doi.org/10.5281/zenodo.6436865)** es un dataset de ejemplo que contiene los matemáticos cuya tesis fue de estadística y la realizaron en una universidad española.
 
 - **[chromedriver.exe](https://github.com/jsainero/WebScraping/blob/master/chromedriver.exe)** es el archivo necesario para poder usar selenium para navegar por la web. Se puede obtener el archivo para su versión de Google Chrome en esta [web](https://chromedriver.chromium.org/downloads).
 
