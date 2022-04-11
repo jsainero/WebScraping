@@ -6,8 +6,8 @@ En esta práctica hemos aplicado técnicas de _web scraping_ para extraer inform
 
 ## Equipo
 
-- Álvaro López
-- Jorge Sainero
+- Álvaro López Cabello
+- Jorge Sainero Valle
 
 ## Ficheros
 
@@ -15,7 +15,7 @@ En esta práctica hemos aplicado técnicas de _web scraping_ para extraer inform
 
 - **[Práctica Web scraping.ipynb](https://github.com/jsainero/WebScraping/blob/master/Pr%C3%A1ctica%20Web%20scraping.ipynb)** es un notebook donde empezamos a usar las librerías de _web scraping_.
 
-- **[mathematicias_dataset.json](https://github.com/jsainero/WebScraping/blob/master/mathematicians_dataset.json)** es un dataset de ejemplo que contiene los matemáticos cuya tesis fue de estadística y la realizaron en una universidad española.
+- **[mathematicias_dataset.json](https://doi.org/10.5281/zenodo.6436865)** es un dataset de ejemplo que contiene los matemáticos cuya tesis fue de estadística y la realizaron en una universidad española.
 
 - **[chromedriver.exe](https://github.com/jsainero/WebScraping/blob/master/chromedriver.exe)** es el archivo necesario para poder usar selenium para navegar por la web. Se puede obtener el archivo para su versión de Google Chrome en esta [web](https://chromedriver.chromium.org/downloads).
 
@@ -38,7 +38,7 @@ se cogerá la lista de todos los matemáticos que realizaron la tesis en España
 El script tiene implementado el comando `--help` por lo que si se lanza:
 
 ```bash
-python 3 webscraper.py [--help | -h]
+python3 webscraper.py [--help | -h]
 ```
 
 se devolverá una ayuda con los valores que pueden obtener los parámetros.
